@@ -80,11 +80,11 @@
 
   - <h3>Real-Estate ERP</h3>
     <p>The Real Estate ERP System integrates Sales Management, Supply Chain Management, Inventory Management, and Accounting</p>
-    <p>Technologies: Laravel, JavaScript, MySQL</p>
+    <p>Technologies: Laravel, jQuery, MySQL</p>
   - <h3>ISP Management ERP</h3>
     <p>The ISP Management System integrates Survey, Planning, Costing, Sales Management, Supply Chain Management, and Inventory Management into a unified platform, streamlining the             entire process from initial surveys and project planning to cost estimation, procurement, and inventory control, ensuring efficient and optimized ISP operations.
     </p>
-    <p>Technologies: Laravel, JavaScript, MySQL</p>
+    <p>Technologies: Laravel, jQuery, MySQL</p>
     
   - <h3>Garments Inventory Management System</h3>
     <p>This system helps manage stock levels, track buyer orders and deliveries, and streamline purchasing processes.
@@ -94,12 +94,12 @@
   - <h3>Restaurant Management System</h3>
     <p>The Restaurant Management System streamlines order and invoice management, facilitates staff salary payments, and manages purchase and expense entries.
     </p>
-    <p>Technologies: Laravel, JavaScript, MySQL</p> 
+    <p>Technologies: Laravel, jQuery, MySQL</p> 
     
   - <h3>Production Management ERP</h3>
     <p>The Production Management ERP System integrates Production, Sales, Supply Chain Management, Inventory, and Accounts into a unified platform. It optimizes manufacturing workflows.
     </p>
-    <p>Technologies: Laravel, JavaScript, MySQL</p> 
+    <p>Technologies: Laravel, jQuery, MySQL</p> 
 
 <h1>🧰 Work Experience</h1>
 <h3>Manager | Magnetism Tech Limited</h3>
